@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 .streamlit
 .venv
+pg_essay.txt
 __pycache__
